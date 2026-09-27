@@ -1,203 +1,63 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hiiie%2C+I'm+Amos+%F0%9F%91%8B;Full-Stack+Developer;Data+%26+Cloud+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Hiiie%2C+I'm+Amos+%F0%9F%91%8B;Full-Stack+Developer;Cloud+%26+Data+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" />
+</p>
 
-<sub>Building products, breaking bugs, learning systems.</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,nodejs,mysql,postgres,mongodb,git,github,postman,vscode,aws,gcp,tableau" />
+</p>
 
-<br><br>
+<p align="center">
+  <a href="https://linkedin.com/in/amos-nunes-6227b1358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://amosnunes01.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:amosnunes15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<a href="https://linkedin.com/in/amos-nunes-6227b1358">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://amosnunes01.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:amosnunes15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amosnunes01&label=Profile%20Views&color=a855f7&style=for-the-badge" />
+</p>
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=amosnunes01&label=Profile+Views&color=A855F7&style=flat-square" />
+### 🚀 About Me
+I build things across the stack — from React front ends to REST APIs, with a growing pull toward data visualization and cloud. Always learning, always shipping, always breaking something in a branch first.
 
-</div>
+- 🔭 Currently sharpening: cloud + data viz
+- 🌱 Exploring: system design & scalable backends
+- ⚡ Fun fact: my longest coding streak is 25 days straight
 
+<details>
+<summary><b>🛠️ Full Tech Breakdown</b></summary>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0F1A,50:A855F7,100:22D3EE&height=3&section=header" width="100%" />
+**Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
+**Frontend:** React, JavaFX
+**Backend & APIs:** Node.js, REST APIs
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Tools:** Git, GitHub, Postman, VS Code
+**Cloud:** AWS, Google Cloud
+**Data & Visualization:** Power BI, Tableau, Matplotlib, Excel
 
-<br>
+</details>
 
-## `> whoami`
+---
 
-```text
-┌──(amos㉿github)-[~/about]
-└─$ whoami
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amosnunes01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosnunes01&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
-Computer Engineering student
-Full-stack developer
-Cloud & data enthusiast
-Professional bug creator
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amosnunes01&theme=radical&hide_border=true" />
+</p>
 
-I like building across the whole stack — wiring up a React frontend, standing up a REST API behind it, then figuring out why the database won't talk to either. Lately I've been pulled toward cloud infrastructure and data visualization.
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=amosnunes01&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-> *"I build first. Google the error later."*
-
-<br>
-
-## `🖥️ Dev Snapshot`
-
-```text
-┌───────────────────────────────────────────────┐
-│  AMOS@DEV ~ $ ./profile.sh                     │
-├───────────────────────────────────────────────┤
-│                                                 │
-│  Role        → Full-Stack Developer            │
-│  Focus       → Cloud + Data                     │
-│  Backend     → Node.js / REST APIs              │
-│  Frontend    → React / JavaFX                   │
-│  Databases   → MySQL / PostgreSQL / MongoDB     │
-│  Cloud       → AWS / GCP                        │
-│  Longest streak → 25 days                       │
-│                                                 │
-└───────────────────────────────────────────────┘
-```
-
-<br>
-
-## `🚀 Currently Building`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**☁️ Cloud**
-
-AWS architectures, auth, storage and deployment pipelines that don't fall over.
-
-</td>
-<td width="33%" valign="top">
-
-**📊 Data**
-
-Dashboards and visualizations that make raw data easier to reason about.
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ Backend**
-
-REST APIs, database design and auth systems built to scale past a demo.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `🧩 Tech Stack`
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</td>
-<td valign="top" width="50%">
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Cloud & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,postman,vscode" />
-
-</td>
-<td valign="top" width="50%">
-
-**Data & Visualization**
-<br>
-<img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;Power BI · Tableau · Matplotlib · Excel
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0F1A,50:6366F1,100:0F0F1A&height=2&section=header" width="100%" />
-
-<br>
-
-## `📊 GitHub Analytics`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amosnunes01&show_icons=true&hide_border=true&bg_color=0F0F1A&title_color=A855F7&icon_color=22D3EE&text_color=C9C9E0" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosnunes01&layout=compact&hide_border=true&bg_color=0F0F1A&title_color=A855F7&text_color=C9C9E0" height="165" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=amosnunes01&hide_border=true&background=0F0F1A&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" />
-</div>
-
-<br>
-
-## `🏆 GitHub Activity`
-
-<div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=amosnunes01&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
-<br>
-
-## `🌐 Connect`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│        Let's build something interesting.     │
-└──────────────────────────────────────────────┘
-```
-
-<a href="https://linkedin.com/in/amos-nunes-6227b1358">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://amosnunes01.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:amosnunes15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:A855F7,100:0F0F1A&height=3&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
