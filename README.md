@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amos%20Nunes&fontSize=42&fontColor=ffffff&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=AMOS%20NUNES&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkle" />
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@
 <br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amosnunes01&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amosnunes01&layout=donut&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="205" alt="Most Used Languages Donut Ring" />
+  <img src="https://streak-stats.demolab.com/?user=amosnunes01&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=A855F7&sideLabels=FFFFFF&dates=888888" height="205" alt="GitHub Streak Stats" />
 </p>
 
 <br />
