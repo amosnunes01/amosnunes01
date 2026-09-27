@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,nodejs,mysql,postgres,mongodb,git,github,postman,vscode,aws,gcp,tableau" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/amos-nunes-6227b1358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://amosnunes01.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://amos-portfolio-liart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:amosnunes15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -23,27 +19,59 @@
 ---
 
 ### 🚀 About Me
-I build things across the stack — from React front ends to REST APIs, with a growing pull toward data visualization and cloud. Always learning, always shipping, always breaking something in a branch first.
 
-- 🔭 Currently sharpening: cloud + data viz
-- 🌱 Exploring: system design & scalable backends
-- ⚡ Fun fact: my longest coding streak is 25 days straight
-
-<details>
-<summary><b>🛠️ Full Tech Breakdown</b></summary>
-<br>
-
-**Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
-**Frontend:** React, JavaFX
-**Backend & APIs:** Node.js, REST APIs
-**Databases:** MySQL, PostgreSQL, MongoDB
-**Tools:** Git, GitHub, Postman, VS Code
-**Cloud:** AWS, Google Cloud
-**Data & Visualization:** Power BI, Tableau, Matplotlib, Excel
-
-</details>
+- 💻 Full-stack developer working across React front ends and REST APIs
+- 📊 Growing focus on data visualization and cloud
+- 🌱 Currently exploring system design & scalable backends
+- ⚡ Longest coding streak so far: **25 days**
+- 🌐 Portfolio: **[amos-portfolio-liart.vercel.app](https://amos-portfolio-liart.vercel.app/)**
 
 ---
+
+### 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,java" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="48" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+**Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+**Data & Visualization**
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="48" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amosnunes01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
@@ -57,6 +85,16 @@ I build things across the stack — from React front ends to REST APIs, with a g
 <p align="center">
   <img src="https://github-readme-trophies.vercel.app/?username=amosnunes01&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amosnunes01/amosnunes01/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ The snake animation above needs a **one-time setup** in your repo (see note below) — it isn't generated automatically like the stats cards.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
