@@ -28,49 +28,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,java" />
-</p>
-
-**Backend & APIs**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="48" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-**Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
-
-**Data & Visualization**
-<p>
-  <img src="https://skillicons.dev/icons?i=tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="48" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
