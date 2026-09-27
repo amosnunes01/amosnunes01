@@ -91,10 +91,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amosnunes01/amosnunes01/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amosnunes01/amosnunes01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amosnunes01/amosnunes01/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amosnunes01/amosnunes01/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> ⚠️ The snake animation above needs a **one-time setup** in your repo (see note below) — it isn't generated automatically like the stats cards.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
