@@ -16,36 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=amosnunes01&label=Profile%20Views&color=a855f7&style=for-the-badge" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 💻 Full-stack developer working across React front ends and REST APIs
-- 📊 Growing focus on data visualization and cloud
-- 🌱 Currently exploring system design & scalable backends
-- ⚡ Longest coding streak so far: **25 days**
-- 🌐 Portfolio: **[amos-portfolio-liart.vercel.app](https://amos-portfolio-liart.vercel.app/)**
-
----
-
-### 📊 GitHub Stats
+<br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amosnunes01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosnunes01&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amosnunes01&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosnunes01&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amosnunes01&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=amosnunes01&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
