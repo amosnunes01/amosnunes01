@@ -19,9 +19,11 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amosnunes01&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosnunes01&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amosnunes01&show_icons=true&title_color=7fff00&icon_color=7fff00&text_color=7fff00&bg_color=000000&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amosnunes01&layout=compact&title_color=7fff00&text_color=7fff00&bg_color=000000&hide_border=true" height="165" alt="Most Used Languages" />
 </p>
+
+<br />
 
 <p align="center">
   <picture>
