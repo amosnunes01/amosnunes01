@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Hiiie%2C+I'm+Amos+%F0%9F%91%8B;Full-Stack+Developer;Cloud+Explorer;Data+Visualization+Enthusiast;Computer+Engineering+Student;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Hiiie%2C+I'm+Amos+%F0%9F%91%8B;Full-Stack+Developer;Cloud+%26+Data+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
 <sub>Building products, breaking bugs, learning systems.</sub>
 
@@ -15,6 +15,10 @@
 <a href="mailto:amosnunes15@gmail.com">
   <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amosnunes01&label=Profile+Views&color=A855F7&style=flat-square" />
 
 </div>
 
@@ -36,7 +40,7 @@ Cloud & data enthusiast
 Professional bug creator
 ```
 
-I like building across the whole stack — wiring up a React frontend, standing up a REST API behind it, then figuring out why the database won't talk to either. Lately I've been pulled toward cloud infrastructure and data visualization — there's something satisfying about turning a pile of numbers into a dashboard someone actually wants to look at.
+I like building across the whole stack — wiring up a React frontend, standing up a REST API behind it, then figuring out why the database won't talk to either. Lately I've been pulled toward cloud infrastructure and data visualization.
 
 > *"I build first. Google the error later."*
 
@@ -51,11 +55,11 @@ I like building across the whole stack — wiring up a React frontend, standing 
 │                                                 │
 │  Role        → Full-Stack Developer            │
 │  Focus       → Cloud + Data                     │
-│  Backend     → Node.js / Express / REST         │
+│  Backend     → Node.js / REST APIs              │
 │  Frontend    → React / JavaFX                   │
 │  Databases   → MySQL / PostgreSQL / MongoDB     │
 │  Cloud       → AWS / GCP                        │
-│  Currently   → Building & experimenting         │
+│  Longest streak → 25 days                       │
 │                                                 │
 └───────────────────────────────────────────────┘
 ```
@@ -70,21 +74,21 @@ I like building across the whole stack — wiring up a React frontend, standing 
 
 **☁️ Cloud**
 
-Exploring AWS architectures — auth, storage, and deployment pipelines that don't fall over.
+AWS architectures, auth, storage and deployment pipelines that don't fall over.
 
 </td>
 <td width="33%" valign="top">
 
 **📊 Data**
 
-Dashboards and visualizations that make raw data easier to reason about, not just prettier.
+Dashboards and visualizations that make raw data easier to reason about.
 
 </td>
 <td width="33%" valign="top">
 
 **⚙️ Backend**
 
-REST APIs, database design, and auth systems built to actually scale past a demo.
+REST APIs, database design and auth systems built to scale past a demo.
 
 </td>
 </tr>
@@ -94,82 +98,60 @@ REST APIs, database design, and auth systems built to actually scale past a demo
 
 ## `🧩 Tech Stack`
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github" />
-
-**Data & Visualization**
-
-<img src="https://skillicons.dev/icons?i=python" /> &nbsp;Power BI · Tableau · Matplotlib · Excel
-
-<br>
-
-## `🧪 Things I've Built`
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🗂️ PROJECT_01
-Short description of what this project does and the problem it solves.
-
-**Stack:** `React` `Node.js` `MongoDB`
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white" /></a>
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🗂️ PROJECT_02
-Short description of what this project does and the problem it solves.
-
-**Stack:** `Python` `Flask` `PostgreSQL`
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white" /></a>
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🗂️ PROJECT_03
-Short description of what this project does and the problem it solves.
-
-**Stack:** `Java` `JavaFX` `MySQL`
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🗂️ PROJECT_04
-Short description of what this project does and the problem it solves.
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-**Stack:** `AWS` `Python` `Power BI`
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+**Cloud & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,postman,vscode" />
+
+</td>
+<td valign="top" width="50%">
+
+**Data & Visualization**
+<br>
+<img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;Power BI · Tableau · Matplotlib · Excel
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0F1A,50:6366F1,100:0F0F1A&height=2&section=header" width="100%" />
 
 <br>
 
@@ -190,8 +172,6 @@ Short description of what this project does and the problem it solves.
 
 <div align="center">
 <img src="https://github-readme-trophies.vercel.app/?username=amosnunes01&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=amosnunes01&label=Profile+Views&color=A855F7&style=flat-square" />
 </div>
 
 <br>
@@ -202,9 +182,7 @@ Short description of what this project does and the problem it solves.
 
 ```text
 ┌──────────────────────────────────────────────┐
-│                                                │
 │        Let's build something interesting.     │
-│                                                │
 └──────────────────────────────────────────────┘
 ```
 
